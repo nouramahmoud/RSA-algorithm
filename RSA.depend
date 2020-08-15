@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1585428077 source:c:\users\user\desktop\last term\security\rsa\main.cpp
+	<iostream>
+	<math.h>
+
+1585428145 source:c:\users\user\desktop\last term\security\sec-a3-20166043\main.cpp
+	<iostream>
+	<math.h>
+
